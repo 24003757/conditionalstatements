@@ -27,8 +27,8 @@ Windows Operating System
 ```
 
 # OUTPUT:
-![image](https://github.com/user-attachments/assets/afe3bbe6-edb2-4e3d-8f3c-d700c508bd8a)
-![image](https://github.com/user-attachments/assets/eb147115-10fa-4ac3-83aa-ccb442f01e12)
+![Screenshot 2025-05-08 201256](https://github.com/user-attachments/assets/449212ee-bda6-4f09-9570-9f772ce1163a)
+![Screenshot 2025-05-08 201200](https://github.com/user-attachments/assets/01a43c12-8333-427d-b6ed-ec51228cb383)
 
 
 
